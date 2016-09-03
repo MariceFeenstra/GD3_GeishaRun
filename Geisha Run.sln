@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{930DC901-FD9F-8BE6-0026-AAB6ADFD7ABC}") = "Geisha Run", "Assembly-CSharp.csproj", "{11ADA3AF-5344-72A6-08AC-1380F38F6C98}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11ADA3AF-5344-72A6-08AC-1380F38F6C98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11ADA3AF-5344-72A6-08AC-1380F38F6C98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11ADA3AF-5344-72A6-08AC-1380F38F6C98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11ADA3AF-5344-72A6-08AC-1380F38F6C98}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
